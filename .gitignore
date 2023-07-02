@@ -1,0 +1,43 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Output directories
+/_vendor/
+/bin/
+/pkg/
+
+# Compiled Object files, Static and Dynamic libs
+*.o
+*.a
+*.lo
+*.la
+*.s
+*.dSYM/
+*.out
+
+# Testing files
+*.test
+*.test/
+test-report.xml
+test.out
+
+# Dependency directories
+/Godeps/
+/vendor/
+
+# Beego specific files
+/conf/app.conf
+
+# Log files
+/log/
+*.log
+
+# IDE specific files
+.vscode/
+.idea/
+*.iml
+*.swp
