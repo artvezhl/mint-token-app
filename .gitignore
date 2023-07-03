@@ -41,3 +41,6 @@ test.out
 .idea/
 *.iml
 *.swp
+
+# ABI
+./contracts
